@@ -8,4 +8,4 @@
 5) In the code editor, run the command 'npm start'
 6) To view the swagger UI, go to http://localhost:3000/api-docs/
 
-![Swagger UI]
+![Swagger UI]https://github.com/navR-Dev/Airline-Website-API/blob/main/Swagger_UI.jpg
